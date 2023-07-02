@@ -64,4 +64,5 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
   );
 };
 
+
 export default Form;
